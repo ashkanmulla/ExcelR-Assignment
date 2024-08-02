@@ -1,3 +1,6 @@
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdmYWQyMTEtM2NlZi00MDY4LWJkNGItZTU4NGJmZjZhYWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%22658ba197-6c73-4fea-91bd-1c7d8de6bf2c%22%2c%22Oid%22%3a%222b8c6555-bd49-48ad-af87-688cdb03681d%22%7d
+
 def calculateScore(text, prefixString, suffixString):
     def longest_suffix_prefix_match(text, prefixString, suffixString):
         # Find longest match for prefix score
