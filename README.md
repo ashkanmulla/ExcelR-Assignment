@@ -1,3 +1,8 @@
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDg1MmFlOTQtYmRmNi00MGU3LWFlOGItODEwMWQ0MWUzZTcx%40thread.v2/0?context=%7b%22Tid%22%3a%22a4e56156-4cb4-4ec1-8eae-8eb24cecb770%22%2c%22Oid%22%3a%2272e9273a-2a2e-4ff0-a4ac-9be123b022b4%22%7d
+
+
+
+
 https://ltimindtree-cp.ripplehire.com/candidate-portal/login/candidate/NzI1ZTk5YzgtOTVlNS00OGQ2LThiMTItY2ZjYTk3MDEyZDVm
 
 
