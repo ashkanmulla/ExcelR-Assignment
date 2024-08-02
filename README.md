@@ -1,3 +1,6 @@
+https://ltimindtree-cp.ripplehire.com/candidate-portal/login/candidate/NzI1ZTk5YzgtOTVlNS00OGQ2LThiMTItY2ZjYTk3MDEyZDVm
+
+
 Certainly! Here’s a combined and simplified explanation of your experience and responsibilities:
 
 ---
